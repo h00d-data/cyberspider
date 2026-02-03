@@ -79,7 +79,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📘 docs/architecture.md (opcional, mas valoriza MUITO)
+## 📘 docs/architecture.md 
 
 ```md
 # CyberSpider Architecture

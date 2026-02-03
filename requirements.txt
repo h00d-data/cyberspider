@@ -1,0 +1,7 @@
+requests
+feedparser
+beautifulsoup4
+python-docx
+matplotlib
+PyQt6
+nvdlib

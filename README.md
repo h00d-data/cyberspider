@@ -23,7 +23,7 @@ de fontes públicas, integrando **Kill Chain**, **EPSS**, **NVD**, **CISA KEV**,
   - Metasploit
   - Nuclei
 - Interface gráfica (PyQt6)
-- Exportação de relatório profissional em **DOCX**
+- Exportação de relatório em **DOCX** da vulnerabilidade para preenchimento posterior!
 
 ---
 
